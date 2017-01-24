@@ -1,0 +1,12 @@
+{
+  "DB_TYPE":"jdbc:mysql://",
+  "DB_HOST":"127.0.0.1",
+  "DB_PORT":"3306",
+  "DB_NAME":"book",
+  "DB_USER":"root",
+  "DB_PASS":"YNXR3ecz",
+  "SERVER_PORT":"8000",
+  "SSL_KEY":"resources/keystore.jks",
+  "SSL_PWD":"brugtbog",
+  "ALLOW_ORIGIN": "https://localhost:63343"
+}
